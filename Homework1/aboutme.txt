@@ -1,0 +1,12 @@
+Your name: Sebrianne Ferguson
+Your student ID: 011990862
+Your major: Computer Science
+Your preferred email address: sebrianne.ferguson@sjsu.edu 
+Check one: [X] Undergraduate, [ ] Graduate, [ ] Open university 
+Repeating the class? [ ] Yes, [X] No
+Place and semester where you took a programming course in Java: San Jose State, Spring 2018
+Course number and grade received: CS 46A, A
+Place and semester where you took a course in data structures: San Jose State, Fall 2017
+Course number and grade received: CS 46B, A
+Time it took you to answer the two questions below: 2 hours
+Did you ask anyone for help? [X] Yes (for the second part, not the first time), [] No
