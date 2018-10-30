@@ -1,4 +1,4 @@
-package hw5;
+//package hw5;
 
 /**
  * A decorator for an item that applies a discount.
@@ -15,7 +15,7 @@ public class DiscountedItem implements LineItem {
 	public DiscountedItem(LineItem item, double discount) {
 		this.item = item;
 		this.discount = discount;
-		this.quantity = 1;
+		this.quantity = 1; //added
 	}
 
 	public double getPrice() {
@@ -35,7 +35,7 @@ public class DiscountedItem implements LineItem {
 		return quantity;
 	}
 
-	@Override
+	@Override //added
 	public void increaseQuantity() {
 		quantity+=1;
 		
